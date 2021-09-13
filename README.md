@@ -9,7 +9,7 @@
 </p>
 
 ![Main Branch Status](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=main)
-[![Twitter Account](https://img.shields.io/twitter/follow/swiftdevtools?color=00acee&label=twitter&style=flat-square)](https://twitter.com/swiftdevtools)
+[![Twitter Account](https://img.shields.io/twitter/follow/swift_devtools?color=00acee&label=twitter&style=flat-square)](https://twitter.com/swift_devtools)
 
 [**SnippetsLibrary has not been released yet! But we're working on it!**](https://swiftdevtools.com/)
 
@@ -76,7 +76,7 @@ Looking for more Objective-C language support? Help us by contributing a pull re
 
 All code contributions must go through a pull request and be approved by a core developer before being merged. This is to ensure a proper review of all the code.
 
-We truly ❤️ pull requests! If you wish to help, you can email us at [contribution@swiftdevtools.com](mailto:contribution@swiftdevtools.com) or DM us on [Twitter](https://twitter.com/swiftdevtools).
+We truly ❤️ pull requests! If you wish to help, you can email us at [contribution@swiftdevtools.com](mailto:contribution@swiftdevtools.com) or DM us on [Twitter](https://twitter.com/swift_devtools).
 
 ## Security
 
@@ -84,7 +84,7 @@ For security issues, kindly email us at [security@swiftdevtools.com](mailto:secu
 
 ## Follow Us
 
-Join our growing community around the world! See our official [Blog](https://medium.com/swiftdevtools). Follow us on [Twitter](https://twitter.com/swiftdevtools), [Facebook Page](https://www.facebook.com/swiftdevtools), [Facebook Group](https://www.facebook.com/groups/swiftdevtools.developers/) for more help, ideas, and discussions.
+Join our growing community around the world! See our official [Blog](https://medium.com/swiftdevtools). Follow us on [Twitter](https://twitter.com/swift_devtools), [Facebook Page](https://www.facebook.com/swift_devtools), [Facebook Group](https://www.facebook.com/groups/swift_devtools.developers/) for more help, ideas, and discussions.
 
 ## License
 
