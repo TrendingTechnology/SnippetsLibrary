@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <a href="https://swiftdevtools.com" target="_blank"><img width="136" height="100" src="https://swiftdevtools.com/snippetslibrary/images/devtoolslogo.svg" alt="Snippets Library Logo"></a>
+    <a href="https://swiftdevtools.com" target="_blank"><img width="200" height="147" src="http://swiftdevtools.com/snippetslibrary/images/devtoolslogo.svg" alt="Snippets Library Logo"></a>
     <br />
     <br />
     <b>A snippets library for Swift and SwiftUI</b>
