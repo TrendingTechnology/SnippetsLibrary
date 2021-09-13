@@ -13,7 +13,7 @@
 
 [**SnippetsLibrary has not been released yet! But we're working on it!**](https://swiftdevtools.com/)
 
-SnippetsLibrary is an helpfull tool for Swift and SwiftUI developers thath helps with everyday coding life. SnippetsLibrary containts all code snippets that you can need, and you can browse it, edit or add more and more new one. It's make your daily work simpler and faster.
+SnippetsLibrary is a helpful tool for Swift and SwiftUI developers to help with their daily coding life. SnippetsLibrary contains all the needed code snippets for you to view, edit, or add more and more. This will make your daily work easier and faster.
 
 ![SnippetsLibrary](public/images/showcase.png)
 
@@ -32,11 +32,11 @@ Table of Contents:
       
 ## Installation
 
-You can download the SnippetsLibrary app directly from the Mac App Store ot join the Developer Beta Testing Program via Test Flight:
+The SnippetsLibrary app can be downloaded directly from the Mac App Store or you can join the Developer Beta Testing Program via Test Flight:
 
 ### App Store
 
-Check out released version of SnippetsLibrary app on Mac App Store:
+Check the released version of Snippets Library in the Mac App Store:
 
 ```
 https://appStore.applink.com
@@ -44,7 +44,7 @@ https://appStore.applink.com
 
 ### Test Flight
 
-You can join to SnippetsLibrary beta testing by below invitation link:
+You can join the SnippetsLibrary app beta testing by clicking on the invite link below:
 
 ```
 https://testFlight.invitationlink.com
@@ -52,7 +52,7 @@ https://testFlight.invitationlink.com
 
 ## Getting Started
 
-Getting started with SnippetsLibrary is as easy as clone this project via your favorite Git Client, you can choose it from recomended clients listed below:
+Getting started with the SnippetsLibrary is as simple as cloning this project with your favorite Git client, you can choose it from the recommended clients listed below:
 
 * [Sourcetree App](https://www.sourcetreeapp.com)
 * [GitHub Desktop](https://desktop.github.com)
