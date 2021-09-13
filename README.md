@@ -15,7 +15,7 @@
 
 SnippetsLibrary is an helpfull tool for Swift and SwiftUI developers thath helps with everyday coding life. SnippetsLibrary containts all code snippets that you can need, and you can browse it, edit or add more and more new one. It's make your daily work simpler and faster.
 
-![SnippetsLibrary](public/images/githubshowcase.png)
+![SnippetsLibrary](public/images/showcase.png)
 
 Table of Contents:
 
