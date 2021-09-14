@@ -39,7 +39,7 @@ The SnippetsLibrary app can be downloaded directly from the Mac App Store or you
 Check the released version of Snippets Library in the Mac App Store:
 
 ```
-https://appStore.applink.com
+Not available yet
 ```
 
 ### Test Flight
@@ -47,7 +47,7 @@ https://appStore.applink.com
 You can join the SnippetsLibrary app beta testing by clicking on the invite link below:
 
 ```
-https://testFlight.invitationlink.com
+https://testflight.apple.com/join/P1tNGffH
 ```
 
 ## Getting Started
